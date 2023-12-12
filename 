@@ -1,0 +1,35 @@
+* [33mcommit 3b3bb97114b99cf24184e9472afc5e841d5fe734[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mproduto[m[33m)[m
+[31m|[m Author: AraujoRodolfo <rodolfop.araujo@gmail.com>
+[31m|[m Date:   Tue Dec 12 09:26:37 2023 -0300
+[31m|[m 
+[31m|[m     adição do produto.html e correção do titulo no index.html
+[31m|[m 
+* [33mcommit c2d6d67718a46f18506c77dab09b5a19ab29e3e5[m
+[31m|[m Author: AraujoRodolfo <rodolfop.araujo@gmail.com>
+[31m|[m Date:   Tue Dec 12 09:05:00 2023 -0300
+[31m|[m 
+[31m|[m     adicionado o arquivo login.html
+[31m|[m 
+* [33mcommit 7315a9bba4ebce5f3d4fb549304c103cb54c62ac[m[33m ([m[1;31morigin/main[m[33m)[m
+[31m|[m Author: AraujoRodolfo <rodolfop.araujo@gmail.com>
+[31m|[m Date:   Mon Dec 11 08:09:41 2023 -0300
+[31m|[m 
+[31m|[m     Alteração no body
+[31m|[m 
+* [33mcommit bc6630a37469d61ba4c2c64cbbb05dc72d917572[m
+[31m|[m Author: AraujoRodolfo <rodolfop.araujo@gmail.com>
+[31m|[m Date:   Mon Dec 11 07:51:38 2023 -0300
+[31m|[m 
+[31m|[m     Alteração do css
+[31m|[m 
+* [33mcommit 6fbc7097cb48f1d145d8a73c9ce2783b83d6746e[m
+[31m|[m Author: AraujoRodolfo <rodolfop.araujo@gmail.com>
+[31m|[m Date:   Mon Dec 11 07:50:33 2023 -0300
+[31m|[m 
+[31m|[m     Inclusão de referência ao css
+[31m|[m 
+* [33mcommit 73fa567a1c558c99345512beac71e058c048d905[m
+  Author: AraujoRodolfo <rodolfop.araujo@gmail.com>
+  Date:   Mon Dec 11 07:49:25 2023 -0300
+  
+      Projeto inicial
